@@ -4,7 +4,7 @@ Este projeto faz parte do curso Business Analytics da Formação Cientista de Da
 
 Os indicadores contemplados na análise são:
 
-• Faturamento Mensal
+• Faturamento Mensal ##
 • Taxa Percentual de Crescimento Mensal
 • Clientes Ativos Por Mês em um País 
 • Total de Itens Comprados Por Mês em um País 
