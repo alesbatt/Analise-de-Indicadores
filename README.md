@@ -1,4 +1,4 @@
-# Analise-de-Indicadores
+# Análise de Indicadores
 
 Este projeto faz parte do curso <i>Business Analytics</i> da Formação Cientista de Dados ministrado pela Data Science Academy e tem como objetivo exercitar técnicas de exploração e análise de dados a partir da construção dos Indicadores-Chave de Performance de uma rede de varejo que comercializa  produtos  importados  dos  mais variados tipos para diversos países ao redor do mundo. 
 
