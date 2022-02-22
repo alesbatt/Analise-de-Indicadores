@@ -5,10 +5,10 @@ Este projeto faz parte do curso <i>Business Analytics</i> da Formação Cientist
 Os indicadores contemplados na análise são:
 
 * Faturamento Mensal
-* Taxa Percentual de Crescimento Mensal 🚧
-* Clientes Ativos Por Mês em um País 🚧
-* Total de Itens Comprados Por Mês em um País 🚧
-* Faturamento Médio Mensal em um País 🚧
-* Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos 🚧
-* Taxa de Novos Clientes 🚧
-* Taxa Mensal de Retenção de Clientes 🚧
+* Taxa Percentual de Crescimento Mensal 
+* Clientes Ativos Por Mês em um País 
+* Total de Itens Comprados Por Mês em um País 
+* Faturamento Médio Mensal em um País 
+* Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos 
+* Taxa de Novos Clientes 
+* Taxa Mensal de Retenção de Clientes 
